@@ -14,11 +14,9 @@ The main goal of this repository is to offload local static assets such as image
 
 Assets in this repository are organized by type:
 ```
-/images/
+--main
 └── story1.png
 └── story2.jpg
-
-/audio/
 └── intro.mp3
 └── story-audio-1.mp3
 ```
